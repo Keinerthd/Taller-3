@@ -1,0 +1,3 @@
+id_pedido,id_cliente,producto,precio,cantidad,activo
+1,1,salchipapa,10200,1,1
+2,1,perro caliente,6700.0,1,1
