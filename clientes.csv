@@ -1,2 +1,7 @@
 id_cliente,nombre,apellido,telefono,activo
 1,keinerth,de la hoz,3005511325,0
+3,Pepito,Florencio Perez,1234567810,1
+4,Fernando,Fernandez Gutierrez,388142135,1
+5,Claudio,Barroco Diaz,234412156,1
+6,Sebastian,Gallego Suarez,888352256,1
+7,Pedro Nieto,Nieto,5501100,0
